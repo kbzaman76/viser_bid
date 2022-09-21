@@ -1,0 +1,335 @@
+{
+    "header": {
+        "builder": true,
+        "no_selection": true,
+        "name": "Header Section",
+        "content": {
+            "email": "text",
+            "mobile": "text"
+        }
+    },
+    "banner": {
+        "builder": true,
+        "no_selection":true,
+        "name": "Banner Section",
+        "content": {
+            "images": {
+                "background_image":{
+                    "size": "1920x1280"
+                }
+            },
+            "heading": "text",
+            "subheading": "text",
+            "button": "text",
+            "button_url": "text",
+            "link": "text",
+            "link_url": "text"
+        }
+    },
+    "breadcrumb": {
+        "builder": true,
+        "no_selection": true,
+        "name": "Breadcrumb Section",
+        "content": {
+            "images": {
+                "background_image": {
+                    "size": "1920x240"
+                }
+            }
+        }
+    },
+    "feature": {
+        "builder": true,
+        "no_selection":true,
+        "name": "Feature Section",
+        "element": {
+            "title": "text",
+            "feature_icon": "icon",
+            "modal": true
+        }
+    },
+    "categories": {
+        "builder": true,
+        "name": "Categories Section",
+        "content": {
+            "heading": "text",
+            "subheading": "text"
+        }
+    },
+    "live_auction": {
+        "builder": true,
+        "name": "Live Auction",
+        "content": {
+            "heading": "text",
+            "subheading": "text"
+        }
+    },
+    "upcoming_auction": {
+        "builder": true,
+        "name": "Upcoming Auction",
+        "content": {
+            "heading": "text",
+            "subheading": "text"
+        }
+    },
+    "recently_expired": {
+        "builder": true,
+        "name": "Recently Expired",
+        "content": {
+            "heading": "text",
+            "subheading": "text"
+        }
+    },
+    "quick_banner": {
+        "builder": true,
+        "name": "Quick Banner",
+        "element": {
+            "images":{
+                "image": {
+                    "size": "700x400"
+                }
+            },
+            "button": "text",
+            "url": "text",
+            "modal": true
+        }
+    },
+    "winner": {
+        "builder": true,
+        "name": "Latest Winner Section",
+        "content": {
+            "heading": "text",
+            "subheading": "text",
+            "images": {
+                "image":{
+                    "size": "4680x3900"
+                }
+            }
+        }
+    },
+    "how_to_bid": {
+        "builder": true,
+        "name": "How To Bid",
+        "content": {
+            "heading": "text",
+            "subheading": "text"
+        },
+        "element": {
+            "heading": "text",
+            "icon": "icon",
+            "modal": true
+        }
+    },
+    "testimonial": {
+        "builder": true,
+        "name": "Testimonial",
+        "content": {
+            "heading": "text",
+            "subheading": "text"
+        },
+        "element": {
+            "name": "text",
+            "designation": "text",
+            "star": "text",
+            "description": "textarea",
+            "images": {
+                "user_image": {
+                    "size": "120x120"
+                }
+            },
+            "modal": true
+        }
+    },
+    "sponsors": {
+        "builder": true,
+        "name": "Sponsors Section",
+        "element": {
+            "images": {
+                "image":{
+                    "size": "200x100"
+                }
+            },
+            "modal": true
+        }
+    },
+    "login": {
+        "builder": true,
+        "no_selection": true,
+        "name": "Login Section",
+        "content": {
+            "images": {
+                "background_image": {
+                    "size": "1920x1080"
+                }
+            }
+        }
+    },
+    "register": {
+        "builder": true,
+        "no_selection": true,
+        "name": "Register Section",
+        "content": {
+            "images": {
+                "background_image": {
+                    "size": "1920x1080"
+                }
+            }
+        }
+    },
+    "2fa_verify": {
+        "builder": true,
+        "no_selection": true,
+        "name": "2FA Verification Page",
+        "content": {
+            "images": {
+                "background_image": {
+                    "size": "1920x1080"
+                }
+            }
+        }
+    },
+    "email_verify": {
+        "builder": true,
+        "no_selection": true,
+        "name": "Email Verification Page",
+        "content": {
+            "images": {
+                "background_image": {
+                    "size": "1920x1080"
+                }
+            }
+        }
+    },
+    "sms_verify": {
+        "builder": true,
+        "no_selection": true,
+        "name": "SMS Verification Page",
+        "content": {
+            "images": {
+                "background_image": {
+                    "size": "1920x1080"
+                }
+            }
+        }
+    },
+    "code_verify": {
+        "builder": true,
+        "no_selection": true,
+        "name": "Code Verification Page",
+        "content": {
+            "images": {
+                "background_image": {
+                    "size": "1920x1080"
+                }
+            }
+        }
+    },
+    "reset_password_email": {
+        "builder": true,
+        "no_selection": true,
+        "name": "Reset Password - Email",
+        "content": {
+            "images": {
+                "background_image": {
+                    "size": "1920x1080"
+                }
+            }
+        }
+    },
+    "reset_password": {
+        "builder": true,
+        "no_selection": true,
+        "name": "Reset Password Page",
+        "content": {
+            "images": {
+                "background_image": {
+                    "size": "1920x1080"
+                }
+            }
+        }
+    },
+    "counter": {
+        "builder": true,
+        "name": "Counter Section",
+        "element": {
+            "title": "text",
+            "counter_digit": "text",
+            "counter_icon": "icon",
+            "modal": true
+        }
+    },
+    "policy_pages": {
+        "builder": true,
+        "no_selection":true,
+        "name": "Policy Pages",
+        "element": {
+            "title": "text",
+            "details": "textarea-nic",
+            "modal": false
+        }
+    },
+    "faq": {
+        "builder": true,
+        "name": "FAQ Section",
+        "content": {
+            "heading": "text",
+            "subheading": "text"
+        },
+        "element": {
+            "question": "text",
+            "answer": "textarea-nic",
+            "modal": false
+        }
+    },
+    "blog": {
+        "builder": true,
+        "name": "Blog Section",
+        "content": {
+            "heading": "text",
+            "subheading": "text"
+        },
+        "element": {
+            "images":{
+                "blog_image":{
+                    "size":"850x570",
+                    "thumb":"425x285"
+                }
+            },
+            "title": "text",
+            "description_nic": "textarea-nic",
+            "modal": false
+        }
+    },
+    "contact_us": {
+        "builder": true,
+        "no_selection": true,
+        "name": "Contact Us",
+        "content": {
+            "title": "text",
+            "short_details": "text",
+            "email_address": "text",
+            "contact_details": "text",
+            "contact_number": "text"
+        }
+    },
+    "about": {
+        "builder": true,
+        "name": "About Us",
+        "no_selection":true,
+        "content": {
+            "images":{
+                "about_image":{
+                    "size":"800x530"
+                }
+            },
+            "heading": "text",
+            "subheading": "text",
+            "description": "textarea",
+            "video_url": "text"
+        },
+        "element": {
+            "about_list": "text",
+            "modal": true
+        }
+    }
+}
